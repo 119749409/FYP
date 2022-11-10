@@ -1,0 +1,6 @@
+DataAccess\PatientData.class
+Model\Patient.class
+Servlets\NewUserServlet.class
+Opperations\PatientOpps.class
+Servlets\PatientDataServlet.class
+Util\DatabaseActions.class
